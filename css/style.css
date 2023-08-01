@@ -1,15 +1,4 @@
 @import url("https://fonts-googleapis.com/css?family=Ubuntu:wght@400;500;600;700&font=Poppins:wght@400;500;700;");
-@font-face {
-  font-family: 'Ubuntu';
-  font-weight: 400;
-  font-style: normal;
-  src: url(../fonts/Ubuntu-B.ttf);
-  src: url(../fonts/Ubuntu-R.ttf) format("ttf"),
-    url(../fonts/boxicons.woff2) format("woff2"),
-    url(../fonts/boxicons.woff) format("woff"),
-    url(../fonts/boxicons.ttf) format("truetype"),
-    url(../fonts/boxicons.svg?#boxicons) format("svg");
-}
 
 * {
   margin: 0;
